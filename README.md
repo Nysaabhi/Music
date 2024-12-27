@@ -57,19 +57,19 @@
         // Array of birds with their names, image paths, and sound file paths
         const birds = [
             {
-                name: "Eagle",
-                image: "https://example.com/robin.jpg", // Replace with actual image URL
-                sound: "https://pixabay.com/music/eagle-281163/" // Replace with actual sound URL
+                name: "Robin",
+                image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Robin_Redbreast.jpg", // Open-source image URL
+                sound: "https://www.xeno-canto.org/sounds/uploaded/YYXLCSNMQI/xc589515-EuropeanRobin.mp3" // Open-source sound URL
             },
             {
                 name: "Blue Jay",
-                image: "https://example.com/bluejay.jpg", // Replace with actual image URL
-                sound: "https://example.com/bluejay.mp3" // Replace with actual sound URL
+                image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Blue_Jay_in_profile.jpg", // Open-source image URL
+                sound: "https://www.xeno-canto.org/sounds/uploaded/LBSPXXNUCS/xc602490-BlueJay.mp3" // Open-source sound URL
             },
             {
                 name: "Sparrow",
-                image: "https://example.com/sparrow.jpg", // Replace with actual image URL
-                sound: "https://example.com/sparrow.mp3" // Replace with actual sound URL
+                image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/House_sparrow04.jpg", // Open-source image URL
+                sound: "https://www.xeno-canto.org/sounds/uploaded/LHPHGZSMUY/xc610422-HouseSparrow.mp3" // Open-source sound URL
             }
         ];
 
